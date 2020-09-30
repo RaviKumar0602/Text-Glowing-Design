@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family-Bad+Script');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Josefin+Sans:wght@600&display=swap');
 body{
     margin: 0;
     padding: 0;
@@ -6,10 +6,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    
     background: #000;
-
-    font-family: 'Bad Script',cursive;
+    font-family: 'DM Serif Text', serif;
+    font-family: 'Josefin Sans', sans-serif;
+    
 }
 h1{
     margin: 0;
